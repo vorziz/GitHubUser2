@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+
+    <string name="search_query_hint">Type something to search users</string>
+    <string name="something_went_wrong">There is something wrong. Please try again later.</string>
+    <string name="no_result">No result. Please try another word.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--height-->
+    <dimen name="h60">60dp</dimen>
+    <dimen name="h70">70dp</dimen>
+
+    <!--    margin-->
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+
+
+    <!--    Text Size-->
+    <dimen name="t10">10sp</dimen>
+    <dimen name="t12">12sp</dimen>
+    <dimen name="t14">14sp</dimen>
+    <dimen name="t16">16sp</dimen>
+</resources>
